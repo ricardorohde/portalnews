@@ -3,11 +3,6 @@
 ## Sobre
 Projeto desenvolvido pelo aluno Caio Leung no curso de [Web Design Responsivo: Páginas que se adaptam do mobile ao desk](https://www.alura.com.br/curso-online-web-design-responsivo), lecionado pelo instrutor Sérgio Lopes do [Alura](https://www.alura.com.br).
 
-## Tecnologias
-* HTML
-* CSS
-* JavaScript
-
 ## Aulas
 1. Design Fluído
 2. Mais Design Fluído
@@ -17,3 +12,8 @@ Projeto desenvolvido pelo aluno Caio Leung no curso de [Web Design Responsivo: P
 6. Imagens Responsivas
 7. Imagens vetoriais
 8. Dicas de UX para Mobile
+
+## Tecnologias
+* HTML
+* CSS
+* JavaScript
