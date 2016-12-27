@@ -1,9 +1,11 @@
 # Portalnews
 
 ## Sobre
+
 Projeto desenvolvido pelo aluno Caio Leung no curso de [Web Design Responsivo: Páginas que se adaptam do mobile ao desk](https://www.alura.com.br/curso-online-web-design-responsivo), lecionado pelo instrutor Sérgio Lopes do [Alura](https://www.alura.com.br).
 
 ## Aulas
+
 1. Design Fluído
 2. Mais Design Fluído
 3. Media Queries
@@ -14,6 +16,7 @@ Projeto desenvolvido pelo aluno Caio Leung no curso de [Web Design Responsivo: P
 8. Dicas de UX para Mobile
 
 ## Tecnologias
+
 * HTML
 * CSS
 * JavaScript
