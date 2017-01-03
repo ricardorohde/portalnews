@@ -20,3 +20,28 @@ Projeto desenvolvido pelo aluno Caio Leung no curso de [Web Design Responsivo: P
 * HTML
 * CSS
 * JavaScript
+
+## Estrutura
+
+```
+| portalnews/
+|
+|-- css/
+|   |-- estilos.css
+|   |-- exercicios.css
+|
+|-- img/
+|   |-- entreterimento1.jpg
+|   |-- esporte1..jpg
+|   |-- esporte2.jpg
+|   |-- logo.png
+|   |-- logo.svg
+|   |-- lupa.png
+|   |-- tv1.jpg
+|
+|-- js/
+|   |-- menu.js
+|
+|-- README.md
+|-- index.html
+```
