@@ -32,7 +32,7 @@ Projeto desenvolvido pelo aluno Caio Leung no curso de [Web Design Responsivo: P
 |
 |-- img/
 |   |-- entreterimento1.jpg
-|   |-- esporte1..jpg
+|   |-- esporte1.jpg
 |   |-- esporte2.jpg
 |   |-- logo.png
 |   |-- logo.svg
