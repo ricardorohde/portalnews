@@ -14,6 +14,7 @@ Projeto desenvolvido pelo aluno [Caio Leung](https://www.linkedin.com/in/caio-le
 6. Imagens Responsivas
 7. Imagens vetoriais
 8. Dicas de UX para Mobile
+[Certificado](https://cursos.alura.com.br/user/caioleung3/course/web-design-responsivo/certificate)
 
 ## Tecnologias
 
