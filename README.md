@@ -2,7 +2,7 @@
 
 ## Sobre
 
-Projeto desenvolvido pelo aluno [Caio Leung](https://www.linkedin.com/in/caio-leung-4501a012a) no curso de [Web Design Responsivo: Páginas que se adaptam do mobile ao desk](https://www.alura.com.br/curso-online-web-design-responsivo), lecionado pelo instrutor Sérgio Lopes do [Alura](https://www.alura.com.br).
+Projeto desenvolvido pelo aluno [Caio Leung](https://www.linkedin.com/in/caio-leung-4501a012a) no curso de [Web Design Responsivo: Páginas que se adaptam do mobile ao desk](https://www.alura.com.br/curso-online-web-design-responsivo), lecionado pelo instrutor [Sérgio Lopes](https://cursos.alura.com.br/user/sergiolopes) do [Alura](https://www.alura.com.br).
 
 ## Aulas
 
